@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: 'Design+Code 3',
+    title: 'Aleksandr Larionov — product designer',
   },
   plugins: ['gatsby-plugin-react-helmet'],
 }
+  
